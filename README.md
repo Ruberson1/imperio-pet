@@ -1,5 +1,13 @@
 # Império Pet (Controle de clientes e serviços)
 
+## Da instalação:
+- Faça o clone do projeto para seu local
+- Na Api execute o comando [composer install](https://getcomposer.org/download/)
+- Você pode utilizar um host como servidor ou execute o comando [composer start]
+- Pronto dessa forma a Api já pode ser consumida 
+- No Front end execute o comando [npm install](https://nodejs.org/en/download/)
+- Em seguida execute o comando [npm run serve]
+
 ## Api Criada com Lumen 
 - Orm Eloquent
 ### Rotas
@@ -15,6 +23,8 @@
 
 - Cliente -> Pets
 - Servicos -> Status -> tipos serviço -> clientes
+
+## Front com Vue + Bootstrap + Axios
 
 # Objetivo:
 
